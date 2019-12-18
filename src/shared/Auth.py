@@ -89,4 +89,4 @@ class Auth:
             g.user = {'id': user_id}
             return func(*args, **kwargs)
 
-        return 
+        return
